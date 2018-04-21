@@ -1,8 +1,5 @@
 # springboot-poc
 This contains a microservice demo with springboot and docker..
-http://ec2-34-236-84-53.compute-1.amazonaws.com:8180
-
-# Spring Config URL : https://github.com/jass0108/configuration
 
 # Pre-requisite
 1) Install Postgre (9.6.6) : https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
